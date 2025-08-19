@@ -1,45 +1,78 @@
-# Hi 👋, I'm VarshSec  
+# Hi 👋, I'm VarshSec
 
-🔐 Cybersecurity Student | 🐞 Bug Bounty Hunter | 🚀 Exploring CTFs  
-> *"Breaking systems to build stronger ones. Always learning, always hacking."*  
-
----
-
-## 📊 Productivity Chart
-![VarshSec's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarshSec&theme=react-dark)  
-
-![VarshSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarshSec&show_icons=true&theme=tokyonight)  
-![VarshSec's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VarshSec&theme=tokyonight)  
+### Security-focused dev | Kernel enthusiast | Bug Bounty Hunter  
+> *"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."*
 
 ---
 
-## 🛠️ Tools of the Trade
-- **Programming & Scripting:** Python, C, Bash, JavaScript  
-- **Systems & Low-Level Dev:** Linux, Kernel basics, OS concepts  
-- **Cybersecurity Toolkit:** Burp Suite, Nmap, Wireshark, Metasploit, Recon tools  
-- **Infra & Deployment:** Docker, GitHub Actions, Vercel  
+##  Productivity Chart
+![VarshSec’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarshSec&theme=react-dark)
 
 ---
 
-## ⚡ Currently Hacking On
-- 🔐 Bug bounty hunting (Web, API & Cloud security)  
-- 🕵️ Building exploit labs (XSS, SSRF, BOLA, Auth bypass)  
-- 🚀 Developing **CodeHive** (next-gen coding platform)  
-- ⚡ Automating recon & attack workflows  
+##  Tools of the Trade (Cyber & Systems Dev) [click to expand]
+<details>
+<summary>🖥️ Programming & Scripting</summary>
+<br>
+- Python  
+- C / C++  
+- Bash / Shell  
+- Go (learning)  
+- Assembly (x86/x64)  
+</details>
+
+<details>
+<summary>🛠️ Systems & Low-Level Dev</summary>
+<br>
+- Linux internals (`/proc`, syscalls, ptrace)  
+- Memory manipulation & thread injection  
+- Raw sockets & syscall tracing  
+- Rust (in progress)  
+</details>
+
+<details>
+<summary>🧠 Cybersecurity Toolkit</summary>
+<br>
+- Nmap, Wireshark, Nessus (network pentesting)  
+- GDB, Radare2, pwndbg (reverse engineering)  
+- Netcat, socat, curl (recon & exploitation)  
+- iptables, nftables & OSINT tooling  
+- QEMU/KVM labs  
+</details>
+
+<details>
+<summary>🗃️ Infra / Deployment</summary>
+<br>
+- Docker  
+- systemd & OpenSSH  
+- Git, Gitea  
+- Neovim, tmux, htop, lsof  
+</details>
 
 ---
 
-## 🏆 Achievements & Badges
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)  
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs-green?logo=hackthebox)  
-![LeetCode](https://img.shields.io/badge/LeetCode-ProblemSolving-yellow?logo=leetcode)  
-![GitHub](https://img.shields.io/badge/GitHub-OpenSource-blue?logo=github)  
+##  Currently Hacking On
+- Decentralized crawling infrastructure  
+- Real-time shell injection frameworks  
+- A terminal-based file manager  
+- SDN – experimenting with new Rust-based protocols  
+- A modular UNIX-like OS from scratch  
 
 ---
 
-## 📫 Connect With Me
-- 🌐 [Portfolio](https://yourwebsite.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
-- 🐦 [Twitter](https://twitter.com/YOURUSERNAME)  
-- 📧 yourmail@example.com  
-b
+##  GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshSec&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshSec&layout=compact&theme=tokyonight)  
+
+---
+
+##  Connect with Me
+- Email: yourmail@example.com  
+- GitHub: [@VarshSec](https://github.com/VarshSec)  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+
+---
+
+> *"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."*
+
+*(Your pinned projects will auto-display below this README just like ethical-buddy’s profile.)*
