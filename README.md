@@ -6,7 +6,8 @@
 
 ---
 
-![Hacker GIF](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+![Hacker GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+![Code Hacker GIF](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)
 
 ---
 
@@ -80,10 +81,14 @@
 ---
 
 ## 📫 Connect with Me
-- Email: **yourmail@gmail.com**  
+- Email: **varshitsharma.me@gmail.com**  
 - GitHub: [@VarshSec](https://github.com/VarshSec)  
+- LinkedIn: [varshit-sharma](https://www.linkedin.com/in/varshit-sharma)  
+- Medium: [@varshitsharma.me](https://medium.com/@varshitsharma.me)  
+- PicoCTF: [VarshSec](https://play.picoctf.org/users/varshsec)  
+- HTB: VarshSec  
 - Portfolio: *Coming Soon*  
 
 ---
 
-> *"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."*
+> *"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."*  
