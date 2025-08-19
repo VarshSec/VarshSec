@@ -7,8 +7,24 @@
 
 ---
 
-![Hacker Terminal GIF](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
-![Cyber Security GIF](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)
+<p align="center">
+<pre>
+$ whoami
+VarshSec
+$ echo "Initializing bug bounty workflow..."
+$ ./recon.sh
+Scanning targets...
+Exploits found: 3
+</pre>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/13AN8X7jBIm15m/giphy.gif" alt="Hackers GIF" width="400"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Cyber Security GIF" width="400"/>
+</p>
 
 ---
 
