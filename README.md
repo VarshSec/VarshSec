@@ -1,6 +1,6 @@
 # Hi 👋, I'm VarshSec  
 
-🔐 Cybersecurity Student | 🐞 Bug Bounty Hunter | 🚀 Building CodeHive  
+🔐 Cybersecurity Student | 🐞 Bug Bounty Hunter | 🚀 Exploring CTFs  
 > *"Breaking systems to build stronger ones. Always learning, always hacking."*  
 
 ---
