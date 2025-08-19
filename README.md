@@ -2,28 +2,26 @@
 
 **Security-focused dev | Bug Bounty Hunter | API & Cloud Security Enthusiast**  
 
-> *"You don’t get to play nice. You get results."* – Billy Butcher  
-> *"It's only after we've lost everything that we're free to do anything."* – Tyler Durden  
+> *"You don’t get to play nice. You get results."*   
 
 ---
+
 
 <p align="center">
 <pre>
 $ whoami
 VarshSec
-$ echo "Initializing bug bounty workflow..."
-$ ./recon.sh
-Scanning targets...
-Exploits found: 3
+$ echo "Booting Cyber Recon Suite..."
+> Scanning networks...
+> Collecting endpoints...
+> Testing APIs for vulnerabilities...
+> Logging findings...
+> Recon complete!
 </pre>
 </p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/13AN8X7jBIm15m/giphy.gif" alt="Hackers GIF" width="400"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Cyber Security GIF" width="400"/>
 </p>
 
 ---
@@ -33,10 +31,10 @@ Exploits found: 3
 
 ---
 
-## 🧰 Tools of the Trade (Cyber & Systems Dev) [click to view skills]  
+## 🧰 Tools of the Trade (Cyber Security) 
 
 <details>
-<summary>🖥️ Programming & Scripting</summary>  
+<summary>🖥️ Programming & Scripting</summary>
 
 - Python  
 - Bash / Shell  
@@ -47,54 +45,31 @@ Exploits found: 3
 </details>
 
 <details>
-<summary>⚙️ Systems & Low-Level Dev</summary>  
-
-- Linux Internals (syscalls, `/proc`, ptrace)  
-- Reverse Engineering (GDB, pwndbg, Radare2)  
-- Kernel & memory experiments  
-- Syscall hooking & injection  
-
-</details>
-
-<details>
-<summary>🔐 Cybersecurity Toolkit</summary>  
+<summary>🔐 Cybersecurity Toolkit</summary>
 
 - Burp Suite | OWASP ZAP  
 - Wireshark | Nmap  
-- Exploit Dev & PoC scripting  
-- Fuzzing & vulnerability research  
-- Threat Modeling  
-- OSINT frameworks  
+- Web & API vulnerability testing  
+- Fuzzing & recon  
+- OSINT & threat research  
 
 </details>
 
-<details>
-<summary>🗃️ Infra / Deployment</summary>  
-
-- Docker  
-- Git & CI/CD basics  
-- systemd / tmux / Neovim workflow  
-- Cloud (AWS, GCP – fundamentals)  
-
-</details>
 
 ---
 
 ## 🔍 Security Projects & Research
-- Web and API fuzzing pipelines  
-- Exploit development & PoC automation  
-- Terminal-based file manager & shell tools  
-- Decentralized crawling & recon infrastructure  
-- SDN experiments in Rust  
+- Bug bounty recon and reporting on live targets  
+- Web & API vulnerability testing (XSS, SQLi, SSRF)  
+- Automating reconnaissance & scanning scripts  
+- Writing proof-of-concept scripts for findings  
+- OSINT research and data gathering for targets  
+- Documentation of vulnerabilities and write-ups  
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VarshSec&show_icons=true&theme=tokyonight" alt="VarshSec Stats"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarshSec&theme=tokyonight" alt="Streak Stats"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshSec&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p>
+## 📊 GitHub Activity Dashboard
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VarshSec&show_icons=true&theme=tokyonight" alt="VarshSec Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarshSec&theme=tokyonight" alt="Streak Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshSec&layout=compact&theme=tokyonight" alt="Top Languages"/> </p>
 
 ---
 
