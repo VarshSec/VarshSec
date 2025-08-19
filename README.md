@@ -2,12 +2,13 @@
 
 **Security-focused dev | Bug Bounty Hunter | API & Cloud Security Enthusiast**  
 
-> *"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."*  
+> *"You don’t get to play nice. You get results."* – Billy Butcher  
+> *"It's only after we've lost everything that we're free to do anything."* – Tyler Durden  
 
 ---
 
-![Hacker GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
-![Code Hacker GIF](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)
+![Hacker Terminal GIF](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+![Cyber Security GIF](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)
 
 ---
 
@@ -45,6 +46,7 @@
 - Burp Suite | OWASP ZAP  
 - Wireshark | Nmap  
 - Exploit Dev & PoC scripting  
+- Fuzzing & vulnerability research  
 - Threat Modeling  
 - OSINT frameworks  
 
@@ -62,12 +64,12 @@
 
 ---
 
-## 🧠 Currently Hacking On
-- Decentralized crawling infrastructure 🕸️  
-- Real-time shell injection frameworks 🐚  
-- A terminal-based file manager 🗂️  
-- SDN — experimenting with Rust protocols 🌐  
-- A modular UNIX-like OS project 🧬  
+## 🔍 Security Projects & Research
+- Web and API fuzzing pipelines  
+- Exploit development & PoC automation  
+- Terminal-based file manager & shell tools  
+- Decentralized crawling & recon infrastructure  
+- SDN experiments in Rust  
 
 ---
 
@@ -88,7 +90,3 @@
 - PicoCTF: [VarshSec](https://play.picoctf.org/users/varshsec)  
 - HTB: VarshSec  
 - Portfolio: *Coming Soon*  
-
----
-
-> *"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."*  
