@@ -51,7 +51,8 @@ $ echo "Booting Cyber Recon Suite..."
 - Wireshark | Nmap  
 - Web & API vulnerability testing  
 - Fuzzing & recon  
-- OSINT & threat research  
+- OSINT & threat research
+- NUCLEI
 
 </details>
 
