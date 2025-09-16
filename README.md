@@ -1,8 +1,6 @@
 # Hi 👋, I'm VarshSec  
 
-**Security-focused dev | API & Cloud Security Enthusiast**  
-
-> *"You don’t get to play nice. You get results."*   
+** API & Cloud Security Enthusiast**   
 
 ---
 
